@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=alarm
+Exec=qmlscene $@ Main.qml
+Icon=alarm.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
